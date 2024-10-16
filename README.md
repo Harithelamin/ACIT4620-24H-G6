@@ -1,2 +1,2 @@
 # ACIT4620-24H-G6
-AI Hybrid Project
+AI, fuzzy logic Project
