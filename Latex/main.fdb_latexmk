@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1731060193.90277 "c:/Users/Lenovo/Documents/GitHub/ACIT4620-24H-G6/Lattex/main.tex" "main.pdf" "main" 1731060194.48579 0
-  "C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730746211 82347 0a47e4f8d01f5d55a2e12fd68cc2a137 ""
+["pdflatex"] 1731923273.54383 "c:/Users/Lenovo/Documents/GitHub/ACIT4620-24H-G6/Latex/main.tex" "main.pdf" "main" 1731923274.03606 0
+  "C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731667933 82347 0a47e4f8d01f5d55a2e12fd68cc2a137 ""
   "C:/Users/Lenovo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730724021 11986008 0a4ee49a35ac8f83aec26bc56f6e903f ""
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -29,10 +29,11 @@
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1730544106 2671 70891d50dac933918b827d326687c6e8 ""
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1730544106 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "c:/Users/Lenovo/Documents/GitHub/ACIT4620-24H-G6/Lattex/main.tex" 1731060193 369 8ea2e7ba042fff471edfd5d3ebbb667d ""
+  "c:/Users/Lenovo/Documents/GitHub/ACIT4620-24H-G6/Latex/main.tex" 1731923272 420 ac67022507eb7e7ad1816ba4e7a90ead ""
   "introduction.tex" 1731059973 12 8800e1c9b3e22c44ba59a34db3fe4841 ""
-  "main.aux" 1731060194 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
-  "main.tex" 1731060193 369 8ea2e7ba042fff471edfd5d3ebbb667d ""
+  "main.aux" 1731923273 230 6add9db1c353d446e1e0973b72ca0d1c "pdflatex"
+  "main.tex" 1731923272 420 ac67022507eb7e7ad1816ba4e7a90ead ""
+  "ref.tex" 1731923245 250 da52ef82fe4096932bbd2d4132bfd968 ""
   (generated)
   "main.aux"
   "main.log"

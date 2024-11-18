@@ -1,6 +1,6 @@
-PWD c:\Users\Lenovo\Documents\GitHub\ACIT4620-24H-G6\Lattex
+PWD c:\Users\Lenovo\Documents\GitHub\ACIT4620-24H-G6\Latex
 INPUT C:\Users\Lenovo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Lenovo\Documents\GitHub\ACIT4620-24H-G6\Lattex\main.tex
+INPUT c:\Users\Lenovo\Documents\GitHub\ACIT4620-24H-G6\Latex\main.tex
 OUTPUT main.log
 INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -50,6 +50,9 @@ INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.t
 INPUT .\introduction.tex
 INPUT .\introduction.tex
 INPUT introduction.tex
+INPUT .\ref.tex
+INPUT .\ref.tex
+INPUT ref.tex
 OUTPUT main.pdf
 INPUT C:\Users\Lenovo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT main.aux
