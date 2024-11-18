@@ -9,7 +9,25 @@ Credit score dataset feature:
 https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?fbclid=IwZXh0bgNhZW0CMTEAAR3qB690tKMRmu3WPfOR3JX_uWnwWm5UZ8egilKtbPSOXpd80po5694E-Ew_aem_y6J4ieYEDtECW1CeA750dQ
 
 
+![alt text](Latex/figures/selected_columns_dataset.PNG)
+
+# Project Environment
+1. Python 3
+2. scikit-learn
+2. scikit-fuzzy -U
+3. networkx
+4. keras
+5. NumPy for numerical computations.
+6. Pandas for data manipulation and analysis.
+7. Requests for the process of sending and receiving data from websites.
+8. Matplotlib for plotting results.
+9. TensorFlow/PyTorch for more advanced RL algorithms like DQN.
+10.Pymoo for for multi-objective optimization algorithms.
+
 
 imports to run the files:
 - $ python3 -m pip install scikit-fuzzy
 - $ $ pip install networkx
+
+# Results
+![alt text](Latex/figures/distribution_data.PNG)
