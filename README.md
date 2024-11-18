@@ -35,5 +35,8 @@ imports to run the files:
 - $ $ pip install scikit-learn
 - $ $ pip install matplotlib
 
+
+!pip3 install pandas scikit-fuzzy -U scikit-learn networkx numpy tensorflow keras matplotlib requests pandas
+
 # Results
 ![alt text](Latex/figures/distribution_data.PNG)
