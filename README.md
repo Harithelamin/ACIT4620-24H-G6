@@ -13,10 +13,10 @@ https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?
 
 # Project Environment
 1. Python 3
-2. scikit-learn
-2. scikit-fuzzy -U
-3. networkx
-4. keras
+2. scikit-learn for classification, regression, clustering, dimensionality reduction.
+2. scikit-fuzzy -U for working with fuzzy systems.
+3. networkx for the creation, manipulation.
+4. keras for building and training deep learning models.
 5. NumPy for numerical computations.
 6. Pandas for data manipulation and analysis.
 7. Requests for the process of sending and receiving data from websites.
