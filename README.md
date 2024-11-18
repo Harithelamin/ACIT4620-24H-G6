@@ -7,3 +7,9 @@ https://www.kaggle.com/competitions/playground-series-s4e10/data?select=train.cs
 
 Credit score dataset feature: 
 https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?fbclid=IwZXh0bgNhZW0CMTEAAR3qB690tKMRmu3WPfOR3JX_uWnwWm5UZ8egilKtbPSOXpd80po5694E-Ew_aem_y6J4ieYEDtECW1CeA750dQ
+
+
+
+imports to run the files:
+- $ python3 -m pip install scikit-fuzzy
+- $ $ pip install networkx
