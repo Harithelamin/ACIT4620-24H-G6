@@ -28,6 +28,12 @@ https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?
 imports to run the files:
 - $ python3 -m pip install scikit-fuzzy
 - $ $ pip install networkx
+- $ $ pip install numpy
+- $ $ pip install pandas
+- $ $ pip install tensorflow
+- $ $ pip install scikit-fuzzy -U
+- $ $ pip install scikit-learn
+- $ $ pip install matplotlib
 
 # Results
 ![alt text](Latex/figures/distribution_data.PNG)
