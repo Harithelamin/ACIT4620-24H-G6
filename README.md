@@ -1,42 +1,44 @@
-# ACIT4620-24H-G6
-AI, fuzzy logic Project
+## Required Libraries
 
-# Data source: 
-Employment history feature: 
-https://www.kaggle.com/competitions/playground-series-s4e10/data?select=train.csv&fbclid=IwZXh0bgNhZW0CMTEAAR3m8MTqUNOmYlHeO4aSG3t27BQAZmFUhklp47HlrgQKs-a_jqKvER8MLxI_aem_wnn0vq8GNdEFy5I6HQg8XA
+To run this project, you will need to install the following Python libraries:
 
-Credit score dataset feature: 
-https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?fbclid=IwZXh0bgNhZW0CMTEAAR3qB690tKMRmu3WPfOR3JX_uWnwWm5UZ8egilKtbPSOXpd80po5694E-Ew_aem_y6J4ieYEDtECW1CeA750dQ
+- `pandas` - For data manipulation and analysis.
+- `numpy` - For numerical computing.
+- `matplotlib` - For plotting and visualizing data.
+- `scikit-fuzzy` - For fuzzy logic operations and control systems.
+- `seaborn` - For statistical data visualization used with `matplotlib`.
+- `scikit-learn` - For machine learning tasks, such as metrics, and evaluation.
+- `pickle` - For storing and opening dataset
+- `nbimporter` - For importing Jupyter Notebooks as Python modules.
 
+### Installation
+You can install the required libraries using `pip`. Here is a sample installation command:
 
-![alt text](Latex/figures/selected_columns_dataset.PNG)
+```bash
+pip install pandas numpy matplotlib scikit-fuzzy seaborn scikit-learn nbimporter
+```
 
-# Project Environment
-1. Python 3
-2. scikit-learn for classification, regression, clustering, dimensionality reduction.
-2. scikit-fuzzy -U for working with fuzzy systems.
-3. networkx for the creation, manipulation.
-4. keras for building and training deep learning models.
-5. NumPy for numerical computations.
-6. Pandas for data manipulation and analysis.
-7. Requests for the process of sending and receiving data from websites.
-8. Matplotlib for plotting results.
-9. TensorFlow/PyTorch for more advanced RL algorithms like DQN.
-10.Pymoo for for multi-objective optimization algorithms.
+# Data set can be found at: 
+https://www.kaggle.com/datasets/arbaaztamboli/loan-approval-dataset
 
 
-imports to run the files:
-- $ python3 -m pip install scikit-fuzzy
-- $ $ pip install networkx
-- $ $ pip install numpy
-- $ $ pip install pandas
-- $ $ pip install tensorflow
-- $ $ pip install scikit-fuzzy -U
-- $ $ pip install scikit-learn
-- $ $ pip install matplotlib
+## How to Run the Code
 
+### `dataset_manager.ipynb`
 
-!pip3 install pandas scikit-fuzzy -U scikit-learn networkx numpy tensorflow keras matplotlib requests pandas
+The `dataset_manager.ipynb` file is responsible for importing the datasets, filtering the data, and checking for missing values. It then stores the cleaned data as a pickle file called `filtered_df.pkl`.
 
-# Results
-![alt text](Latex/figures/distribution_data.PNG)
+This file does not need to be run for the code to function correctly. However, if any adjustments to the dataset are required, it should be done within this file. 
+To run the file, run all cells from top to bottom, or use the notebook function **Run All**.
+
+### `fuzzification.ipynb`
+
+The `fuzzification.ipynb` file handles everything in correlation to the fuzzy system fuzzyfication, membership functions, and rules. 
+
+This file does not need to be run for the code to function either, as it the functions defined in this file is imported to main.
+To run the file, run all cells from top to bottom, or use the notebook function **Run All**.
+
+### `main.ipynb`
+
+The `main.ipynb` file, is where everything is put together. This file does some basic data exploration and visualize them as well as showing the membership functions and results from the fuzzification system. 
+To run the file, run all cells from top to bottom, or use the notebook function **Run All**.
